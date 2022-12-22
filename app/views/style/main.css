@@ -1,0 +1,37 @@
+main {
+    background-color: rgb(181, 181, 181);
+    margin: 0 auto;
+    max-width: 80%;
+}
+
+div {
+    background-color: rgb(255, 255, 255);
+}
+
+h3 {
+    color: rgb(66, 66, 66);
+}
+
+h1 {
+    color: rgb(87, 87, 87);
+}
+
+
+
+  
+  body{
+    background-color: beige;
+  }
+  
+  /*ai */
+  
+  main {
+    background-color: rgb(227, 227, 227);
+    margin: 0 auto;
+    max-width: 80%;
+  }
+  
+  div {
+    background-color: rgb(187, 187, 187);
+  }
+  

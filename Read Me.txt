@@ -1,0 +1,20 @@
+Read me
+
+Database.SQL is v1 database
+
+DB-D3 is de dag 3 database dus de v2 database.
+V1 is goed gemerged in v2 dus met v2 gaan zou voldoende moeten zijn
+
+
+__________________________________
+**********************************
+
+██████╗░██╗░░░██╗███████╗
+██╔══██╗╚██╗░██╔╝██╔════╝
+██████╦╝░╚████╔╝░█████╗░░
+██╔══██╗░░╚██╔╝░░██╔══╝░░
+██████╦╝░░░██║░░░███████╗
+╚═════╝░░░░╚═╝░░░╚══════╝
+
+
+Groetjes, Damian Hijnen
